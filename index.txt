@@ -1,0 +1,19 @@
+INDEX:
+opencv1.py: reading photos and videos
+opencv2.py: resize and rescaling
+opencv3.py: drawing shapes & putting text
+opencv4.py: basic functions of openCV
+opencv5.py: image transformations
+opencv6.py: contour detection
+opencv7.py: color spaces
+opencv8.py: splitting and merging color channels
+opencv9.py: blurring
+opencv10.py: bitwise operations
+opencv11.py: masking
+opencv12.py: computing histograms
+opencv13.py: thresholding/binarizing images
+opencv14.py: gradients/edge detection
+opencv15.py: face detection 
+opencv16.py: face recognition model create
+opencv17.py: face recognition model implement
+
